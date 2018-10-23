@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2018-10-23T04:38:48" hostname="paulos-mbp.3520.dhcp.asu.edu" time="0.008">
+  <properties/>
+  <testcase name="selectionSort_withException" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="insertionSort_Sorted" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testbubbleSort_Sorted" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="bubblesort_WithException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeSort_Sorted" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapSort_withException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertionSor_withException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="selectionSort_OneItem" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertionSort_OneItem" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="selectionSort_Sorted" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapSort_Sorted" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testheapSort_Unsorted" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="bubbleSort_withOneItem" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testinsertionSort_Unsorted" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeSor_withException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeSortwhenOnlyOnceexpected" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testSelectionSort_Unsorted" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testmergeSort_Unsorted" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testBubbleSort_Unsorted" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quickSort_withException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="testquickSort_Unsorted" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quickSort_Sorted" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quickSort_OneItem" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapSort_oneItem" classname="test.java.AlgoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
